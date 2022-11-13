@@ -28,6 +28,8 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssKazal&count_private=true&show_icons=true&theme=radical)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ssKazal&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssKazal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Where to find me</h3>
