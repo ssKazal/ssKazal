@@ -31,8 +31,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22
   <img alt="nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ssKazal&count_private=true&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ssKazal&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>Where to find me</h3>
