@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Salman Siddik Kazal</a> <img
+<h1 align="center">Hi there, I'm <a href="https://www.blackcater.win/" target="_blank">Md Salman Siddik</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="22" /></h1>
 
 <!-- [![Commits Badge](https://badges.pufler.dev/commits/monthly/ssKazal)](https://badges.pufler.dev) -->
